@@ -15,7 +15,7 @@ from langchain_community.vectorstores import Chroma
 
 # Load PDF
 extracted_data = load_pdf_files(
-    data="E:\\B.tech\\Medical_Agent\\LLM_Based_Enterprise_Memory_and_Context_Agent\\data\\Medical_book.pdf"
+    data="C:\\Users\\sjgam\\Downloads\\LLM_AGENT\\LLM_Based_Enterprise_Memory_and_Context_Agent\\data\Medical_book.pdf"
 )
 
 # Filtering
