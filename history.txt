@@ -1,0 +1,35 @@
+User: what is ulcer
+Assistant: 
+Hi !
+
+Context:
+
+
+Question: what is ulcer
+
+Answer:
+Ulcer is a wound in the skin that is caused by an open sore or tear in the skin, usually on the surface of the skin. Ulcers can be painful and may be accompanied by other symptoms such as redness, swelling, and discharge. They can be caused by a variety of factors, including:
+
+*   Bacterial infections
+*   Viral infections
+*   Fungal infections
+*   Trauma
+*   Allergies
+*   Certain medications
+
+Causes:
+
+*   Bacterial infections: These can be caused by bacteria such as Staphylococcus aureus or Streptococcus pyogenes.
+*   Viral infections: These can be caused by viruses such as herpes simplex virus or coxsackievirus.
+*   Fungal infections: These can be caused by fungi such as Candida albicans.
+*   Trauma: This can be caused by physical injury or damage to the skin.
+*   Allergies: This can be caused by an allergic reaction to a substance such as a food or medication.
+*   Certain medications: This can be caused by certain medications such as antibiotics or antihistamines.
+
+Symptoms:
+
+*   Pain: Ulcers can be painful, especially if they are infected or inflamed.
+*   Redness: Ulcers can cause redness and swelling in the affected area.
+*   Swelling: Ulcers can cause swelling in the affected area.
+*   Discharge: Ulcers can cause
+--------------------------------------------------
